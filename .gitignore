@@ -1,0 +1,22 @@
+# Build artifacts
+*.tar.gz
+*.tar.xz
+*.tar.zst
+*.lha
+*.zip
+
+# Build directories
+src/
+pkg/
+
+# makepkg logs
+*.log
+
+# Compiled binaries
+*.o
+*.a
+
+# Temporary files
+*~
+*.swp
+.*.swp
